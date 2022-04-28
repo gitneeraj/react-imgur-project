@@ -13,6 +13,7 @@
 -- `Prop-types` is used to type check the props
 * Uses `Redux/toolkit` as the state management library to maintain a state in central form and uses actions to dispatch event
 * Uses vanilla CSS for styling with flexbox
+* For code standards and formatting - ESLint and Prettier is used
 
 ## Setup
 Download or Clone the repository
