@@ -1,0 +1,65 @@
+[
+    {
+        "type": "section",
+        "options": [
+            {
+                "value": "hot",
+                "text": "Hot"
+            },
+            {
+                "value": "top",
+                "text": "Top"
+            },
+            {
+                "value": "user",
+                "text": "User"
+            }
+        ]
+    },
+    {
+        "type": "sort",
+        "options": [
+            {
+                "value": "viral",
+                "text": "Viral"
+            },
+            {
+                "value": "top",
+                "text": "Top"
+            },
+            {
+                "value": "time",
+                "text": "Time"
+            },
+            {
+                "value": "rising",
+                "text": "Rising"
+            }
+        ]
+    },
+    {
+        "type": "window",
+        "options": [
+            {
+                "value": "day",
+                "text": "Day"
+            },
+            {
+                "value": "week",
+                "text": "Week"
+            },
+            {
+                "value": "month",
+                "text": "Month"
+            },
+            {
+                "value": "year",
+                "text": "year"
+            },
+            {
+                "value": "all",
+                "text": "All"
+            }
+        ]
+    }
+]
